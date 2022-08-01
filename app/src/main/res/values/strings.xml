@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rentacar</string>
+
+    //Headings
+    <string name="heading_one">Knows Me Better</string>
+    <string name="heading_two">My Interests n Dream</string>
+    <string name="heading_three">One Day in My Life</string>
+    <string name="heading_fourth">Get to Know My Friends</string>
+
+    //Description
+    <string name="desc_one">Knows basic information about the creator of this app</string>
+    <string name="desc_two">You will get to see all the interests and dream that i have, plus whether i achieve it or not</string>
+    <string name="desc_three">Follow me as i do my daily activities, and see how i spend most of my days</string>
+    <string name="desc_fourth">You will also get to see the people surround me, which is my friends.</string>
+</resources>
